@@ -5,6 +5,11 @@ form {
     overflow: hidden;
 }
 
+li {
+    color: darkred;
+    font-size: small;
+}
+
 @media screen and (max-width: 800px) {
     form {
         margin: 10%;
