@@ -5,9 +5,8 @@ form {
     overflow: hidden;
 }
 
-li {
-    color: darkred;
-    font-size: small;
+.form-text {
+    line-height: 1;
 }
 
 @media screen and (max-width: 800px) {
